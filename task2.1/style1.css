@@ -1,0 +1,33 @@
+body{
+    line-height: 1.5; 
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: lightgray;
+    margin: 0;
+    padding: 0px 5px;
+    height: 50px;
+    font-size: 20px;
+}
+
+table{
+    border-style: none;
+}
+
+#right_box{
+    width: 200px; 
+    padding: 0;
+    margin:0;
+    text-align: left; 
+    vertical-align: top;
+}
+
+#left_box{
+    width: 200px; 
+    float: left; 
+    padding-top: 0;
+    background-color: #C8FC98;
+    text-align: left; 
+}
