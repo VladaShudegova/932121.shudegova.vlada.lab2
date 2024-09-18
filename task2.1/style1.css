@@ -12,9 +12,9 @@ header{
     font-size: 20px;
 }
 
-table{
-    border-style: none;
-}
+table {
+    border-collapse: collapse;
+  }
 
 #right_box{
     padding: 0;
