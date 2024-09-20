@@ -1,0 +1,29 @@
+header{
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    font-size: 20px;
+}
+
+body{
+    margin:0;
+    padding:0;
+}
+
+table {
+    border-collapse: collapse;
+  }
+
+  #left_box{
+    padding: 0;
+    margin:0;
+    width: 25%;
+    text-align: left; 
+    vertical-align: top;
+    background-color: #C8FC98;
+  }
+
+  #center_box{
+    
+  }
