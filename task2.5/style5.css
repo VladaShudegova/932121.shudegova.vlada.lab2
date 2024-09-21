@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.blue_block, .green_block{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.green_block{
+
+   
+    background-color: green;
+    color: white;
+    padding: 0;
+
+}
+
+.blue_block{
+    background-color: blue;
+    color: white;
+    border: 50px solid blue;
+
+}
