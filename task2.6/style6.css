@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+main{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.blue_block{
+    margin-top: 20px;
+    padding: 50px;
+    border: 10px solid blue;
+}
