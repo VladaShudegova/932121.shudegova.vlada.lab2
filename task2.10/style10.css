@@ -1,0 +1,11 @@
+.first {
+    background-color: #7fffd3;
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 15px;
+}
+.second {
+    background-color: #fee4c4;
+    clear: left;
+}

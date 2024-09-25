@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    padding: 10px;
+}
+
+.first_group{
+    padding-bottom: 30px;
+}
+
+
+.blueviolet_box{
+    background-color: blueviolet;
+    position: static;
+    width: 150px;
+    height: 100px;
+
+}
+
+.darkred_box{
+    background-color: darkred;
+    position: relative;
+    width: 150px;
+    height: 100px;
+}
+
+.peru_box{
+    background-color: peru;
+    position: relative;
+    width: 150px;
+    height: 100px;
+    top: -30px;
+    left: 30px;
+}
+
+
+.indianred_box{
+    background-color: indianred;
+    position: relative;
+    width: 600px;
+    height: 400px;
+    top: 0;
+    left: 0;
+}
+
+
+.indigo_box{
+    background-color: indigo;
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    right: 0;
+    top: 120px;
+
+}
+
+.green_box{
+    position: fixed;
+    background-color: green;
+    max-width: 100px;
+    max-height: 100px;
+    width: 100%;
+    aspect-ratio: 1;
+    right: 0;
+    bottom: 0;
+
+}
+
+p{
+    color:white;
+}

@@ -1,0 +1,15 @@
+.first {
+    margin-left: 15px;
+}
+ .block {
+    width: 200px;
+    height: 100px;
+    background-color: #7fffd3;
+    display: inline-block;
+    margin: 15px 0;
+    margin-right: 30px;
+
+}
+.second {
+    background-color: #f9ecd7;
+}
